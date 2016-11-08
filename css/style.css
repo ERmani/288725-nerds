@@ -1,0 +1,30 @@
+html,
+
+
+
+.container1 {
+  outline: 1px solid black;
+  width: 1440px;
+  margin: auto;
+  background: grey;
+}
+
+.container {
+  outline: 1px solid black;
+  width: 1440px;
+  margin: 0 auto;
+  background: white;
+}
+
+.block-white {
+  height: 100px;
+  background: red;
+}
+
+.map {
+   outline: 1px solid black;
+  width: 1440px;
+  margin: 0 auto;
+  height: 416px;
+  
+}
